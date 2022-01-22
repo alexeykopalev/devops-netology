@@ -3,6 +3,8 @@ For Netology
 First line
 Second line
 
+Line for branche fix
+
 Описание файлов которые будут проигнорированы
 
 Локальная директория .terraform и все ее содержимое 
